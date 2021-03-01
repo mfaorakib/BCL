@@ -1,0 +1,40 @@
+.ClubCart{
+    background-color: rgb(105, 71, 71);
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 30px;
+    width:max-content;
+    
+    
+}
+.Cart{
+    background-color: brown;
+    border: 1px solid salmon;
+    width: fit-content;
+    display: flex;
+    flex: auto;
+    width: 100%;
+}
+.ClubCart h2{
+    font-size: 20px;
+    font: weight 400px;
+    color:white;
+    margin: 4px;
+    padding: 3px;
+}
+.ClubCart h3{
+    font-size: 20px;
+    font: weight 400px;
+    color:white;
+    margin: 4px;
+    padding: 3px;
+}
+
+.Cart p{
+    font-size: 15px;
+    font: weight 200px;
+    color:white;
+    margin: 4px;
+    padding: 3px;
+    padding-top: 8px;
+}

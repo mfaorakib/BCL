@@ -1,0 +1,42 @@
+.PlayerBuy{
+    background-color: brown;
+    border: 1px solid salmon;
+    padding: 5px;
+    border-radius: 3px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 15%;
+    float: left;
+    border-radius: 3px;
+    height: 400px; 
+    margin-top: 30px;
+} 
+.PlayerBuy img{
+    height: 200px;
+    width: 100%;
+}
+.PlayerDetails{
+    background-color:springgreen;
+    width:100%;
+}
+.buyButton{
+    border: none;
+    color:saddlebrown;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-right: 10px;
+    margin-top: 10px;
+    
+
+}
+.buyButton:hover{
+    background-color:  tomato;
+    color: white;
+}
